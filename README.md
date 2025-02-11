@@ -4,7 +4,7 @@
 ### Created a project using:
 + Vue 3 Composition API
 + Vuetify 3
-+ All images are generated with Playground with AI
++ All images are generated with AI
 + consultant assistance ChatGPT
 
 # Game - 
