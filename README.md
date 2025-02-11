@@ -5,7 +5,7 @@
 + Vue 3 Composition API
 + Vuetify 3
 + All images are generated with AI
-+ consultant assistance ChatGPT
++ Consultant assistance ChatGPT
 
 # Game - 
 
