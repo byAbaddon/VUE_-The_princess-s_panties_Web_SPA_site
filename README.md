@@ -20,7 +20,8 @@ Just Play! Enjoy!
 soon
 
 ## Screenshots:
-soon
+![2](https://github.com/user-attachments/assets/d8e92583-d429-4da1-bd58-9b61bb8c4a0a)
+
 
 ### Download
 ##### download file:
