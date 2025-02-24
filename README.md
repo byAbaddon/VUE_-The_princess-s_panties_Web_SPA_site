@@ -22,6 +22,7 @@ soon
 ## Screenshots:
 ![2](https://github.com/user-attachments/assets/d8e92583-d429-4da1-bd58-9b61bb8c4a0a)
 ![3](https://github.com/user-attachments/assets/f3544174-19e9-49a8-9ffa-4e360a836196)
+![4](https://github.com/user-attachments/assets/0d2d6536-24af-4377-93ef-66191ee1e0a4)
 
 
 ### Download
