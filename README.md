@@ -1,4 +1,4 @@
-# byAbaddon-VUE_-The_princess-s_panties_Web_SPA_site
+# byAbaddon-VUE_-The_princess_panties_Web_SPA_site
 
 
 ### Created a project using:
@@ -13,7 +13,11 @@
 ## Playing the game
 ##### How to play? </br>
   </br>
-Just Play! Enjoy!
+An adventure in which you must fight for the heart of the princess and her father's throne.
+— You are a young, ambitious prince — bold and courageous — but a difficult and dangerous test lies ahead of you. The princess, heir to a powerful kingdom, is known not only for her beauty, but also for her wit. To win her hand and the throne, you must face 15 treacherous questions that she will ask you. Each correct answer brings you closer to victory, but a wrong one will summon the executioner, who can give you a second chance. Fail again and your story ends forever.
+Fortunately, you will not face this battle alone. The old sorceress will lend you her aid, and your three lifelines may save you at a critical moment.
+But beware - the stakes are high: a crown and love... or your head! Will you overcome the test and emerge victorious? Or will you become a victim of your own recklessness? The choice is yours.
+
 
 
 ## Short video intro:
