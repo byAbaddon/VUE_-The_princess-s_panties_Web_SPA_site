@@ -30,6 +30,9 @@ soon
 ![3](https://github.com/user-attachments/assets/f3544174-19e9-49a8-9ffa-4e360a836196)
 ![4](https://github.com/user-attachments/assets/0d2d6536-24af-4377-93ef-66191ee1e0a4)
 ![5](https://github.com/user-attachments/assets/8e20d76d-65fb-4668-8ab6-2926ad689690)
+![6](https://github.com/user-attachments/assets/f994276e-5147-45c7-8553-923d76e35de8)
+![7](https://github.com/user-attachments/assets/b46a53bf-094a-49d1-bbf8-3cb1c9f3dfdc)
+![8](https://github.com/user-attachments/assets/f6026d60-7ce2-4f11-bd19-49f4c25d72a3)
 
 
 ### Download
