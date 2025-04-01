@@ -9,6 +9,12 @@
 + Images was generaed by: Perchance and  Piclumen
 
 # Game - 
+Support:
+```diff
++ pc
++ laptop
+- no phone mode
+```
 
 
 ## Playing the game
