@@ -6,7 +6,7 @@
 + Vuetify 3
 + All images are generated with AI
 + Consultant assistance ChatGPT
-+ Images was generaed by: https://perchance.org/ and  https://piclumen.com
++ Images was generaed by: Perchance and  Piclumen
 
 # Game - 
 
