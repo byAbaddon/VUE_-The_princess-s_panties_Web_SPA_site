@@ -28,7 +28,7 @@ But beware - the stakes are high: a crown and love... or your head! Will you ove
 
 
 ## Short video intro:
-soon
+https://youtu.be/Pz1Ywesi9iE
 
 ## Screenshots:
 ![1](https://github.com/user-attachments/assets/18d9c0af-4419-43b1-b189-9bf25bbd5a2f)
