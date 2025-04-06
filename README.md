@@ -25,10 +25,12 @@ An adventure in which you must fight for the heart of the princess and her fathe
 Fortunately, you will not face this battle alone. The old sorceress will lend you her aid, and your three lifelines may save you at a critical moment.
 But beware - the stakes are high: a crown and love... or your head! Will you overcome the test and emerge victorious? Or will you become a victim of your own recklessness? The choice is yours.
 
-
-
 ## Short video intro:
 https://youtu.be/Pz1Ywesi9iE
+
+## Peview:
+the-princess-panties.web.app
+
 
 ## Screenshots:
 ![1](https://github.com/user-attachments/assets/18d9c0af-4419-43b1-b189-9bf25bbd5a2f)
