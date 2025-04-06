@@ -7,7 +7,11 @@
 + consultant assistance ChatGPT
 
 # Game - The_princess-s_panties
-
+```diff
++ Desktop
++ Laptop
+- no suppoet Phone mode
+```
 
 ## Playing the game
  </br>
