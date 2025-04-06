@@ -28,7 +28,7 @@ But beware - the stakes are high: a crown and love... or your head! Will you ove
 ## Short video intro:
 https://youtu.be/Pz1Ywesi9iE
 
-## Peview:
+## Peview Firebase Hosting channels:
 https://the-princess-panties.firebaseapp.com
 
 
