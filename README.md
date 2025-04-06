@@ -29,7 +29,7 @@ But beware - the stakes are high: a crown and love... or your head! Will you ove
 https://youtu.be/Pz1Ywesi9iE
 
 ## Peview:
-the-princess-panties.web.app
+https://the-princess-panties.firebaseapp.com
 
 
 ## Screenshots:
