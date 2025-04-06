@@ -1,0 +1,320 @@
+{
+
+  "An": {
+    "zodiac": "Libra",
+    "personality": "Energetic and ambitious, always seeking new challenges.",
+    "interests": "Loves dancing and attending palace balls.",
+    "behavior": "Direct and sincere, always speaks her mind.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 15,
+    "sexual_experience": "3_Medium, with a slight tendency to experiment",
+    "sexual_liberality":   "3_Medium, but with surprises" ,
+    "sexual_desire": "4_Strong, especially in romantic settings",
+    "country": "Aruba", "code": "AW", "flag": "🇦🇼"
+  },
+  
+  "Adel": {
+    "zodiac": "Libra",
+    "personality": "Energetic and ambitious, always seeking new challenges.",
+    "interests": "Loves dancing and attending palace balls.",
+    "behavior": "Direct and sincere, always speaks her mind.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 7,
+    "sexual_experience": "2_Low, but curious",
+    "sexual_liberality": "3_Medium, with a slight tendency to experiment",
+    "sexual_desire": "4_Strong, especially in romantic settings",
+     "country": "Venezuela",  "code": "VE", "flag": "🇻🇪"
+  },
+  
+  "Aiko": {
+    "zodiac": "Scorpio",
+    "personality": "Mysterious and charismatic, she attracts everyone's attention.",
+    "interests": "Loves studying ancient arts and philosophy.",
+    "behavior": "Reserved but passionate when necessary.",
+    "sexual_orientation": "Bisexual",
+    "intimate_partners": 5,
+    "sexual_experience": "3_Medium, but very open to new experiences",
+    "sexual_liberality": "4_High, loves to experiment",
+    "sexual_desire": "5_Very strong, almost uncontrollable",
+    "country": "Japan", "code": "JP", "flag": "🇯🇵"
+  },
+  "Alexa": {
+    "zodiac": "Sagittarius",
+    "personality": "Optimistic and adventurous, loves to travel.",
+    "interests": "Enjoys horseback riding and exploring new lands.",
+    "behavior": "Open and friendly, always has a story to tell.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 9,
+    "sexual_experience": "4_High, with rich experience",
+    "sexual_liberality": "3_Medium, but with surprises",
+    "sexual_desire": "4_Strong, especially during adventures",
+   "country": "Pakistan", "code": "PK", "flag": "🇵🇰"
+  },
+  
+  "Anita": {
+    "zodiac": "Cancer",
+    "personality": "Compassionate and caring, always helping others.",
+    "interests": "Loves cooking and hosting dinner parties.",
+    "behavior": "Gentle and attentive, but can be decisive.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 16,
+    "sexual_experience": "3_Medium, but very curious",
+    "sexual_liberality": "2_Low, prefers traditional approaches",
+    "sexual_desire": "3_Medium, with exciting moments",
+    "country": "Spain", "code": "ES", "flag": "🇪🇸"
+  },
+  
+    "Arabica": {
+    "zodiac": "Scorpio",
+    "personality": "Compassionate and caring, always helping others.",
+    "interests": "Loves cooking and hosting dinner parties.",
+    "behavior": "Gentle and attentive, but can be decisive.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 1,
+    "sexual_experience": "4_High, with diverse experience",
+    "sexual_liberality": "2_Low, prefers traditional approaches",
+    "sexual_desire": "3_Medium, with exciting moments",
+   "country": "United Arab Emirates", "code": "AE", "flag": "🇦🇪"
+  },
+  
+  
+  "Betty": {
+    "zodiac": "Aries",
+    "personality": "Brave and independent, not afraid of challenges.",
+    "interests": "Loves sword training and participating in tournaments.",
+    "behavior": "Direct and energetic, always on the move.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 8,
+    "sexual_experience": "4_High, with diverse experience",
+    "sexual_liberality": "3_Medium, but with surprises",
+    "sexual_desire": "5_Very strong, almost uncontrollable",
+   "country": "Croatia", "code": "HR", "flag": "🇭🇷"
+
+  },
+  "Caroline": {
+    "zodiac": "Taurus",
+    "personality": "Determined and practical, always achieves her goals.",
+    "interests": "Loves gardening and growing plants.",
+    "behavior": "Calm and stable, but can be stubborn.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 44,
+    "sexual_experience": "2_Low, but with potential",
+    "sexual_liberality": "2_Low, prefers traditional approaches",
+    "sexual_desire": "3_Medium, with exciting moments",
+    "country": "France", "code": "FR", "flag": "🇫🇷"
+  },
+  "Donina": {
+    "zodiac": "Gemini",
+    "personality": "Communicative and curious, loves learning new things.",
+    "interests": "Enjoys writing poetry and participating in debates.",
+    "behavior": "Energetic and changeable, always has new ideas.",
+    "sexual_orientation": "Bisexual",
+    "intimate_partners": 10,
+    "sexual_experience": "4_High, with rich experience",
+    "sexual_liberality": "4_High, loves to experiment",
+    "sexual_desire": "4_Strong, especially with intellectual stimulation",
+    "country": "Italy", "code": "IT", "flag": "🇮🇹"
+  },
+  "Glorya": {
+    "zodiac": "Leo",
+    "personality": "Confident and charismatic, loves being the center of attention.",
+    "interests": "Loves painting and creating art.",
+    "behavior": "Dominant and confident, but also caring.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 12,
+    "sexual_experience": "5_Very high, with exceptional experience",
+    "sexual_liberality": "4_High, loves to experiment",
+    "sexual_desire": "5_Very strong, almost uncontrollable",
+    "country": "Russia", "code": "RU", "flag": "🇷🇺"
+  },
+  
+    "Kenya": {
+    "zodiac": "Scorpio",
+    "personality": "Confident and charismatic, loves being the center of attention.",
+    "interests": "Loves painting and creating art.",
+    "behavior": "Dominant and confident, but also caring.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 410,
+    "sexual_experience": "5_Very high, with exceptional experience",
+    "sexual_liberality": "5_High, loves to experiment",
+    "sexual_desire": "5_Very strong, almost uncontrollable",
+   "country": "Seychelles", "code": "SC", "flag": "🇸🇨"
+  },
+  
+   
+  
+  "Makeda": {
+    "zodiac": "Virgo",
+    "personality": "Analytical and attentive, always has a plan.",
+    "interests": "Loves reading and studying sciences.",
+    "behavior": "Calm and reserved, but can be strict.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 123,
+    "sexual_experience": "2_Low, but with potential",
+    "sexual_liberality": "2_Low, prefers traditional approaches",
+    "sexual_desire": "3_Medium, with exciting moments",
+    "country": "Ethiopia", "code": "ET", "flag": "🇪🇹"  
+  },
+  
+    "Mahal": {
+    "zodiac": "Scorpio",
+    "personality": "Determined and practical, always achieves her goals.",
+    "interests": "Loves reading and studying sciences.",
+    "behavior": "Calm and reserved, but can be strict.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 33,
+    "sexual_experience": "3_Medium, but very open to new experiences",
+    "sexual_liberality": "2_Low, prefers traditional approaches",
+     "sexual_desire": "4_Strong, especially with intellectual stimulation",
+    "country": "India", "code": "IN", "flag": "🇮🇳"
+  },
+  
+  "Lina": {
+    "zodiac": "Pisces",
+    "personality": "Caring and compassionate, always supports her loved ones.",
+    "interests": "Loves embroidery and reading romantic stories.",
+    "behavior": "Gentle but decisive, always expresses her opinion with dignity.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 11,
+    "sexual_experience": "3_Medium, but curious and open to new experiences",
+    "sexual_liberality": "3_Medium, with a slight tendency to experiment",
+    "sexual_desire": "4_Strong, especially in emotional connections",
+    "country": "Germany", "code": "DE", "flag": "🇩🇪"
+  },
+  "Naomi": {
+    "zodiac": "Aquarius",
+    "personality": "Innovative and independent, loves changing the world.",
+    "interests": "Loves inventing new technologies.",
+    "behavior": "Eccentric and unpredictable, but also caring.",
+    "sexual_orientation": "Bisexual",
+    "intimate_partners": 6,
+    "sexual_experience": "3_Medium, but very open to new experiences",
+    "sexual_liberality": "3_Medium, with a slight tendency to experiment",
+    "sexual_desire": "4_Strong, especially with intellectual stimulation",
+     "country": "Borneo", "code": "BN", "flag": "🇧🇳"
+
+  },
+  "Naila": {
+    "zodiac": "Sagittarius",
+    "personality": "Optimistic and adventurous, loves to travel.",
+    "interests": "Enjoys horseback riding and exploring new lands.",
+    "behavior": "Open and friendly, always has a story to tell.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 9,
+    "sexual_experience": "4_High, with rich experience",
+    "sexual_liberality": "3_Medium, but with surprises",
+    "sexual_desire": "4_Strong, especially during adventures",
+   "country": "Haiti", "code": "HT", "flag": "🇭🇹"
+  },
+  "Penelope": {
+    "zodiac": "Capricorn",
+    "personality": "Ambitious and disciplined, always achieves her goals.",
+    "interests": "Loves planning and organizing events.",
+    "behavior": "Serious and responsible, but can be tough.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 5,
+    "sexual_experience": "3_Medium, but very curious",
+    "sexual_liberality": "2_Low, prefers traditional approaches",
+    "sexual_desire": "3_Medium, with exciting moments",
+    "country": "Greece", "code": "GR", "flag": "🇬🇷"
+  },
+  "Quin": {
+    "zodiac": "Libra",
+    "personality": "Charismatic and charming, loves being the center of attention.",
+    "interests": "Loves dancing and attending palace balls.",
+    "behavior": "Direct and sincere, always speaks her mind.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 1,
+    "sexual_experience": "2_Low, but curious",
+    "sexual_liberality": "3_Medium, with a slight tendency to experiment",
+    "sexual_desire": "4_Strong, especially in romantic settings",
+    "country": "Ireland", "code": "IE", "flag": "🇮🇪"
+  },
+  "Shaka": {
+    "zodiac": "Scorpio",
+    "personality": "Mysterious and charismatic, she attracts everyone's attention.",
+    "interests": "Loves studying ancient arts and philosophy.",
+    "behavior": "Reserved but passionate when necessary.",
+    "sexual_orientation": "Bisexual",
+    "intimate_partners": 1025,
+    "sexual_experience": "3_Medium, but very open to new experiences",
+    "sexual_liberality": "4_High, loves to experiment",
+    "sexual_desire": "5_Very strong, almost uncontrollable",
+    "country": "South Africa", "code": "ZA", "flag": "🇿🇦"
+  },
+  "Sintia": {
+    "zodiac": "Pisces",
+    "personality": "Dreamy and romantic, loves creating stories.",
+    "interests": "Loves writing and painting.",
+    "behavior": "Gentle and sensitive, but also decisive.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 4,
+    "sexual_experience": "2_Low, but with potential",
+    "sexual_liberality": "2_Low, prefers traditional approaches",
+    "sexual_desire": "3_Medium, with exciting moments",
+    "country": "Brazil", "code": "BR", "flag": "🇧🇷"
+  },
+  "Skyblue": {
+    "zodiac": "Aquarius",
+    "personality": "Innovative and independent, loves changing the world.",
+    "interests": "Loves inventing new technologies.",
+    "behavior": "Eccentric and unpredictable, but also caring.",
+    "sexual_orientation": "Bisexual",
+    "intimate_partners": 6,
+    "sexual_experience": "3_Medium, but very open to new experiences",
+    "sexual_liberality": "3_Medium, with a slight tendency to experiment",
+    "sexual_desire": "4_Strong, especially with intellectual stimulation",
+   "country": "Haiti", "code": "HT", "flag": "🇭🇹"
+
+  },
+  "Suzy": {
+    "zodiac": "Aries",
+    "personality": "Brave and independent, not afraid of challenges.",
+    "interests": "Loves sword training and participating in tournaments.",
+    "behavior": "Direct and energetic, always on the move.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 8,
+    "sexual_experience": "4_High, with diverse experience",
+    "sexual_liberality": "3_Medium, but with surprises",
+    "sexual_desire": "5_Very strong, almost uncontrollable",
+    "country": "Uruguay", "code": "UY", "flag": "🇺🇾"
+
+  },
+  "Tina": {
+    "zodiac": "Taurus",
+    "personality": "Determined and practical, always achieves her goals.",
+    "interests": "Loves gardening and growing plants.",
+    "behavior": "Calm and stable, but can be stubborn.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 4,
+    "sexual_experience": "2_Low, but with potential",
+    "sexual_liberality": "2_Low, prefers traditional approaches",
+    "sexual_desire": "3_Medium, with exciting moments",
+  	"country": "Norway", "code": "NO", "flag": "🇳🇴"
+  },
+  "Vanessa": {
+    "zodiac": "Gemini",
+    "personality": "Communicative and curious, loves learning new things.",
+    "interests": "Enjoys writing poetry and participating in debates.",
+    "behavior": "Energetic and changeable, always has new ideas.",
+    "sexual_orientation": "Bisexual",
+    "intimate_partners": 10,
+    "sexual_experience": "4_High, with rich experience",
+    "sexual_liberality": "4_High, loves to experiment",
+    "sexual_desire": "4_Strong, especially with intellectual stimulation",
+    "country": "Nicaragua", "code": "NI", "flag": "🇳🇮"
+ 
+  },
+  "Zory": {
+    "zodiac": "Leo",
+    "personality": "Confident and charismatic, loves being the center of attention.",
+    "interests": "Loves painting and creating art.",
+    "behavior": "Dominant and confident, but also caring.",
+    "sexual_orientation": "Heterosexual",
+    "intimate_partners": 12,
+    "sexual_experience": "5_Very high, with exceptional experience",
+    "sexual_liberality": "4_High, loves to experiment",
+    "sexual_desire": "5_Very strong, almost uncontrollable",
+     "country": "Cyprus", "code": "CY", "flag": "🇨🇾"
+  }
+}
